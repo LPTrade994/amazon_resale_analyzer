@@ -1,0 +1,3 @@
+streamlit
+pandas
+plotly # Per grafici interattivi più avanzati (opzionale, ma consigliato)
